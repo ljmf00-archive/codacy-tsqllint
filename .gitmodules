@@ -1,0 +1,3 @@
+[submodule "tsqllint"]
+	path = tsqllint
+	url = https://github.com/tsqllint/tsqllint.git
